@@ -26,7 +26,7 @@ const About = () => {
                     <ul className="list-disc list-inside text-lg">
                         <li>Coding and Programming</li>
                         <li>Learning New Technologies</li>
-                        <li>Tech Content Creation</li>
+                        <li>Content Creator in Tech </li>
                         <li>Playing Cricket</li>
                         <li>Hiking and Outdoor Activities</li>
                     </ul>
